@@ -2,12 +2,9 @@
 ### My name´s Davi Silva, I have a degree in System Analysis and Development. 
 
 
-- 🔭 I’m currently working as service desk, providing the remote service IT support for clients of Altice Telecom.
-- 🌱 I’m currently learning JavaScript, PHP, CSS, MySql, Python, Git.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🔭 I’m currently working as service desk, providing the remote service IT support.
+- 🌱 I’m currently learning JavaScript, PHP, CSS, MySql, Python, Git and English.
+- 📫 How to reach me https://www.linkedin.com/in/davisilvainf/
 
 <div>
   <a href="https://github.com/davisilvarj">
